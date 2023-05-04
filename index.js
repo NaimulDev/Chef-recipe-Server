@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
   res.send("chef recipes api is running");
 });
 
-// Products Api Data
+// recipes Api Data
 const recipes = require("./data/recipes.json");
 app.get("/", (req, res) => {
   res.send("Api is running");
@@ -41,8 +41,7 @@ app.get("/chef/:id", (req, res) => {
   }
 });
 
-// Listening
-
+// Listening port
 app.listen(port, () => {
   console.log(`chef Api is running on port: ${port}`);
 });

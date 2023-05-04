@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c26",
+    "name": "Ferrero Rocher",
+    "chef_id": 1,
+    "rating": 4.5,
+    "like": 33560,
+    "thumbnail": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "image": "https://i.ibb.co/wZHg9wx/pexels-jess-bailey-designs-853005.jpg",
+    "details": "Crispy fried chicken coated in a spicy, seasoned breading served with honey mustard dipping sauce."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c5645",
+    "name": "Godiva",
+    "chef_id": 1,
+    "rating": 4.4,
+    "like": 3365,
+    "thumbnail": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "image": "https://i.ibb.co/C0HDSND/pexels-shvets-production-7525163.jpg",
+    "details": "Crispy fried chicken coated in a spicy, seasoned breading served with honey mustard dipping sauce."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2456",
+    "name": "Lindt",
+    "chef_id": 1,
+    "rating": 4.3,
+    "like": 3656,
+    "thumbnail": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "image": "https://i.ibb.co/nzh9SxY/pexels-cottonbro-studio-3992397.jpg",
+    "details": "Classic spaghetti and meatballs with homemade marinara sauce and a sprinkle of parmesan cheese."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c6456",
+    "name": "Green & Black's",
+    "chef_id": 2,
+    "rating": 4.2,
+    "like": 33750,
+    "thumbnail": "https://i.ibb.co/PYS6vXG/master-chef-1.jpg",
+    "image": "https://i.ibb.co/Sscvjgd/pexels-shvets-production-7525196.jpg",
+    "details": "Classic spaghetti and meatballs with homemade marinara sauce and a sprinkle of parmesan cheese."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c26456",
+    "name": "Milka",
+    "chef_id": 2,
+    "rating": 4.1,
+    "like": 37560,
+    "thumbnail": "https://i.ibb.co/PYS6vXG/master-chef-1.jpg",
+    "image": "https://i.ibb.co/GxLKNk5/pexels-dmitry-zvolskiy-1721932.jpg",
+    "details": "Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2645",
+    "name": "Stir fry",
+    "chef_id": 2,
+    "rating": 4.4,
+    "like": 36750,
+    "thumbnail": "https://i.ibb.co/PYS6vXG/master-chef-1.jpg",
+    "image": "https://i.ibb.co/0ffPJPh/pexels-cottonbro-studio-3992386.jpg",
+    "details": "Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11645654",
+    "name": "Seafood paella",
+    "chef_id": 3,
+    "rating": 4.5,
+    "like": 657,
+    "thumbnail": "https://i.ibb.co/PTD5YZs/master-chef-4.jpg",
+    "image": "https://i.ibb.co/9tHxd1Z/pexels-cottonbro-studio-3992143.jpg",
+    "details": "Smoky pulled pork piled high on a toasted brioche bun with tangy coleslaw and sweet BBQ sauce"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2aytry45",
+    "name": "Salad",
+    "chef_id": 4,
+    "rating": 4.5,
+    "like": 337,
+    "thumbnail": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "image": "https://i.ibb.co/qkxbmzQ/pexels-tim-douglas-6210755.jpg",
+    "details": "Classic spaghetti and meatballs with homemade marinara sauce and a sprinkle of parmesan cheese."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11cytry45",
+    "name": "Curry",
+    "chef_id": 4,
+    "rating": 4.3,
+    "like": 3765,
+    "thumbnail": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "image": "https://i.ibb.co/R7MKDsg/pexels-kristina-paukshtite-2261999.jpg",
+    "details": "Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f16546457t",
+    "name": "Massimo Bottura",
+    "chef_id": 4,
+    "rating": 4.4,
+    "like": 3546,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/C0HDSND/pexels-shvets-production-7525163.jpg",
+    "details": "Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f1yrty45",
+    "name": "Massimo Bottura",
+    "chef_id": 5,
+    "rating": 4.4,
+    "like": 457,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/nzh9SxY/pexels-cottonbro-studio-3992397.jpg",
+    "details": " Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261fy455y",
+    "name": "Massimo Bottura",
+    "chef_id": 5,
+    "rating": 4.2,
+    "like": 380,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/Sscvjgd/pexels-shvets-production-7525196.jpg",
+    "details": " Refreshing summer salad with mixed greens, strawberries, goat cheese, and a balsamic vinaigrette dressing."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f1y5465ytg6",
+    "name": "Pasta",
+    "chef_id": 6,
+    "rating": 4.2,
+    "like": 364,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/GxLKNk5/pexels-dmitry-zvolskiy-1721932.jpg",
+    "details": "Grilled shrimp skewers marinated in garlic and lemon with a side of quinoa and roasted vegetables."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11ch5rt4",
+    "name": "Fried chicken",
+    "chef_id": 6,
+    "rating": 4.3,
+    "like": 305,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/0ffPJPh/pexels-cottonbro-studio-3992386.jpg",
+    "details": "Creamy butternut squash soup with a hint of cinnamon and nutmeg, topped with croutons."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11yh546r",
+    "name": "Massimo Bottura",
+    "chef_id": 6,
+    "rating": 4.4,
+    "like": 360,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/9tHxd1Z/pexels-cottonbro-studio-3992143.jpg",
+    "details": "Spicy chicken fajitas with peppers and onions, wrapped in a warm flour tortilla and topped with sour cream."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11cyhh4y4",
+    "name": "Tacos",
+    "chef_id": 5,
+    "rating": 4.6,
+    "like": 330,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/qkxbmzQ/pexels-tim-douglas-6210755.jpg",
+    "details": "Spicy chicken fajitas with peppers and onions, wrapped in a warm flour tortilla and topped with sour cream."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f1hhr5a",
+    "name": "Sushi",
+    "chef_id": 3,
+    "rating": 4.4,
+    "like": 3350,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/R7MKDsg/pexels-kristina-paukshtite-2261999.jpg",
+    "details": "Sweet and sticky teriyaki salmon with a side of stir-fried vegetables and steamed rice."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f1hr61c2ab6ah6",
+    "name": "Pizza",
+    "chef_id": 3,
+    "rating": 4.5,
+    "like": 330,
+    "thumbnail": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+    "image": "https://i.ibb.co/wZHg9wx/pexels-jess-bailey-designs-853005.jpg",
+    "details": "Crispy fried chicken coated in a spicy, seasoned breading served with honey mustard dipping sauce."
+  }
+]

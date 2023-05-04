@@ -41,7 +41,6 @@ app.get("/chef/:id", (req, res) => {
   }
 });
 
-// Listening port
 app.listen(port, () => {
   console.log(`chef Api is running on port: ${port}`);
 });

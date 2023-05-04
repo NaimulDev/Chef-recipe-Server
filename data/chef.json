@@ -1,50 +1,63 @@
 [
   {
-    "id": "0",
-    "name": "John Smith",
-    "chefPicture": "url-to-chef-picture-1",
-    "yearsOfExperience": 10,
-    "numRecipes": 50,
-    "rating": 4.5
+    "_id": 1,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/k3wvs9K/chef1.png",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
+  },
+
+  {
+    "_id": 2,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/CMFzMtR/master-chef-2.jpg",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
   },
   {
-    "id": "1",
-    "name": "Jane Doe",
-    "chefPicture": "url-to-chef-picture-2",
-    "yearsOfExperience": 5,
-    "numRecipes": 30,
-    "rating": 4.2
+    "_id": 3,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/41ytPwY/master-chef-3.jpg",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
   },
   {
-    "id": "2",
-    "name": "Michael Johnson",
-    "chefPicture": "url-to-chef-picture-3",
-    "yearsOfExperience": 20,
-    "numRecipes": 100,
-    "rating": 4.9
+    "_id": 4,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/PTD5YZs/master-chef-4.jpg",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
   },
   {
-    "id": "3",
-    "name": "Samantha Lee",
-    "chefPicture": "url-to-chef-picture-4",
-    "yearsOfExperience": 8,
-    "numRecipes": 40,
-    "rating": 4.3
+    "id": 5,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/k3wvs9K/chef1.png",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
   },
   {
-    "id": "4",
-    "name": "David Kim",
-    "chefPicture": "url-to-chef-picture-5",
-    "yearsOfExperience": 15,
-    "numRecipes": 80,
-    "rating": 4.7
-  },
-  {
-    "id": "5",
-    "name": "Karen Chen",
-    "chefPicture": "url-to-chef-picture-6",
-    "yearsOfExperience": 3,
-    "numRecipes": 20,
-    "rating": 4.0
+    "_id": 6,
+    "name": "Massimo Bottura",
+    "chef_img": "https://i.ibb.co/k3wvs9K/chef1.png",
+    "title": "The world-famous Massimo Bottura. ",
+    "description": "Born in Modena in the Emilia-Romagna region of Italy on September 30, 1965, Chef Massimo Bottura took his inspiration from his mother, grandmother, and aunt as he would watch them cook as a kid.",
+    "experian": "14 years",
+    "recipe": "21 Recipe",
+    "like": 3330
   }
 ]

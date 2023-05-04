@@ -31,12 +31,13 @@ app.get("/products/:id", (req, res) => {
 });
 app.get("/chef/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  if (id === 0) {
-    res.send(products);
-  } else {
-    const productsChef = products.filter((n) => parseInt(n.category_id) === id);
-    res.send(productsChef);
-  }
+  const productsChef = products.filter((n) => parseInt(n.chef_id) === id);
+  res.send(productsChef);
+  // if (id === 0) {
+  //   res.send(products);
+  // } else {
+
+  // }
 });
 
 // Listening
